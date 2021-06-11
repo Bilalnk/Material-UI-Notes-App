@@ -1,3 +1,3 @@
 # Material-UI-Notes-App
 
-## Overview -> https://myplan.netlify.app/
+## Overview -> https://notemynote.netlify.app/
