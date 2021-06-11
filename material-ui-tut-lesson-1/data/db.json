@@ -17,70 +17,70 @@
       "title": "Order a pizza!",
       "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "category": "todos",
-      "media":"",
+      "media": "",
       "id": 3
     },
     {
       "title": "yeni not yeni note",
       "details": "bu alan doldurulmalı hadashddasd sad",
       "category": "reminders",
-      "media":"",
+      "media": "",
       "id": 4
     },
     {
       "title": "adsd",
       "details": "dasd",
       "category": "todos",
-      "media":"",
+      "media": "",
       "id": 5
     },
     {
       "title": "dasdsa",
       "details": "dsadasdasdasdas",
       "category": "reminders",
-      "media":"",
+      "media": "",
       "id": 6
     },
     {
       "title": "asdas",
       "details": "dsadasdasd",
       "category": "work",
-      "media":"",
+      "media": "",
       "id": 7
     },
     {
       "title": "dasdsa",
       "details": "dsadasd",
       "category": "todos",
-      "media":"",
+      "media": "",
       "id": 9
     },
     {
       "title": "asdasdas",
       "details": "dasdasdsads",
       "category": "todos",
-      "media":"",
+      "media": "",
       "id": 10
     },
     {
       "title": "dasdasd",
       "details": "asdasdasd",
       "category": "todos",
-      "media":"",
+      "media": "",
       "id": 12
     },
     {
       "title": "dsads",
       "details": "adsadsd",
       "category": "money",
-      "media":"",
+      "media": "",
       "id": 13
     },
     {
       "title": "Deploy it!",
       "details": "Don't forget !!!",
       "category": "reminders",
-      "media":"",
+      "media": "",
       "id": 14
     }
   ]

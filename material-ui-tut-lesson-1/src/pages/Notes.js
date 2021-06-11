@@ -40,7 +40,7 @@ export default function Notes() {
         className="my-masonry-grid"
         columnClassName="my-masonry-grid_column">
         {notes.map(note => (
-          <div item key={note.id} xs={12} md={6} lg={4}>
+          <div  key={note.id} xs={12} md={6} lg={4}>
             <NoteCard note={note} handleDelete={handleDelete} />
           </div>
         ))}

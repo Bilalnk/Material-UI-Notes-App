@@ -47,8 +47,7 @@ function NoteCard({ note, handleDelete }) {
 
         return (
                 <div>
-                        <Card elevation={3}
-                                hoverable>
+                        <Card elevation={3}>
                                 <CardHeader
                                         avatar={
                                                 <Avatar className={classes.avatar}>
